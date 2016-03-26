@@ -1,7 +1,8 @@
 --DoitCar Ctronl Demo
 --ap mode
 --Created @ 2015/05/14 by Doit Studio
---Modified: null
+--Modified: 2016/03/26 by kimmoli
+--
 --http://www.doit.am/
 --http://www.smartarduino.com/
 --http://szdoit.taobao.com/
